@@ -1,3 +1,0 @@
-brown: 6C4A4A
-dark brown: 2D2424
-bright grey: EEEEEE
